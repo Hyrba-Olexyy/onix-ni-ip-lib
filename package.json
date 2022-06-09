@@ -21,8 +21,6 @@
   },
   "homepage": "https://github.com/Hyrba-Olexyy/onix-ni-ip-lib#readme",
   "dependencies": {
-    "ip": "^1.1.8",
-    "os": "^0.1.2",
-    "public-ip": "^5.0.0"
+    "os": "^0.1.2"
   }
 }
