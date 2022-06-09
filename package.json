@@ -1,0 +1,28 @@
+{
+  "name": "onix-ni-ip-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyrba-Olexyy/onix-ni-ip-lib.git"
+  },
+  "keywords": [
+    "js",
+    "ip"
+  ],
+  "author": "Oleksii Hyrba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyrba-Olexyy/onix-ni-ip-lib/issues"
+  },
+  "homepage": "https://github.com/Hyrba-Olexyy/onix-ni-ip-lib#readme",
+  "dependencies": {
+    "ip": "^1.1.8",
+    "os": "^0.1.2",
+    "public-ip": "^5.0.0"
+  }
+}
