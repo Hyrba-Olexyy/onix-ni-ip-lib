@@ -9,5 +9,6 @@ npm install onix-ni-ip-lib
 ```
 
 ```javascript
-const infoIp = require('onix-ni-ip-lib').getInfoIp(opt{ version: 'IPv6', isLocal:false });
+const getInfoIp = require('onix-ni-ip-lib');
+const infoIp = getInfoIp({ version: 'IPv6', isLocal: false });
 ```
